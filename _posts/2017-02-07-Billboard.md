@@ -14,13 +14,21 @@ The data describes the songs that peaked on the Billboard charts for the year 20
 
 There are 317 rows with features along 83 columns.
 The columns are:
+
 year - year
+
 released artist.inverted - name of the artist
+
 track - name of the track
+
 time - length of the song
+
 genre - genre of the song
+
 date.entered - the date the song entered the Billboard charts
+
 date.peaked - the date the song peaked on the Billboard charts
+
 x1st.week through x76th.week - the ranking of the song on the Billboard charts
 
 The genres were: Country, Electronica, Gospel, Jazz, Latin, Pop, R&B, Rap, Reggae, Rock and Rock'n'Roll.  Rock had the most songs with nearly 1/3 of the songs, 103 songs.   The next most frequent genres were Country, Rap, and Rock'n'Roll.
