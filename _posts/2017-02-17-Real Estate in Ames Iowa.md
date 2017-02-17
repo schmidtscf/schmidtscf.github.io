@@ -35,7 +35,7 @@ An explanation of the different features can be found [here](https://www.kaggle.
 
 Its clear from this chart that NAmes: North Ames has had the highest percentage of sales of all the neighborhoods. The Blueste: Bluestem neighborhood has the least amount of sales.
 
-![](../images/Neighborhood Sales barplot.png)
+![](../images/Nieghborhood Sales barplot.png)
 
 This chart has the Sales Prices on the Y axis with the neighborhoods on the X axis.  It shows us the range of prices per neighborhood, as well as outliers, and gives us a sense of average price per neighborhood.
 
