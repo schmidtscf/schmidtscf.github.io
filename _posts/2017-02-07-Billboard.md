@@ -4,6 +4,8 @@ title: Billboard Charts!
 ---
 
 
+![](../images/Billboard.jpg)
+
 # Summary
 
 This is the 2nd project for General Assembly's Data Science Immersive course.  The goals for the project were to do some cleaning and exploratory data analysis on a Billboard Charts data set from the year 2000.
